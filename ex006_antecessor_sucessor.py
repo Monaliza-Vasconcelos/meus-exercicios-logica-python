@@ -1,0 +1,5 @@
+N = int(input('Digite um número inteiro: '))
+antecessor_de_N = int(N-1)
+sucessor_de_N = int(N+1)
+print('O antecessor de {} é {}'.format(N,antecessor_de_N))
+print('O sucessor de {} é {}'.format(N,sucessor_de_N))
