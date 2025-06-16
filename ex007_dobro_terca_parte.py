@@ -1,0 +1,5 @@
+N = float(input('Digite um número: '))
+dobro_de_N = float(N*2)
+terca_parte_de_N = float(N/3)
+print('O dobro de {} é {} '.format(N,dobro_de_N))
+print('A terça parte de {} é {} '.format(N,terca_parte_de_N))
